@@ -1,0 +1,220 @@
+.hero-section {
+    margin-left: -47px;
+     background-color: #f47373;
+     color: white;
+     text-align: center;
+     gap: -8;
+ }
+ .navbar-brand img {
+     max-height: 130px;
+     margin-left: 120px;
+ }
+ .hero-section .col-lg-6 img {
+     width: 100%;
+     height: 60vh;
+     object-fit: cover;
+ }
+ .seperador-linea {
+     width: 500px;
+     height: 1px;
+     background-color: white;
+     margin: 0 auto 20px auto;
+ }
+ .about-section {
+     background-color: #BFB882;
+     color: white;
+ }
+ .about-section .col-lg-6 img {
+     width: 100%;
+     height: 60vh;
+ }
+ .why-us-section {
+     padding: 100px 0;
+     background-color: white;
+ }
+ 
+ .seperador {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ 
+ }
+.cards-section{
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    padding: 40px 0;
+}
+.class-card {
+    border: 1px solid #eee;
+     overflow: hidden;
+     margin-bottom: 30px;
+     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .card img {
+     width: 100%;
+     height: 200px;
+     object-fit: cover;
+ }
+ 
+ .card .card-content {
+     padding: 20px;
+ }
+
+
+
+.price-date-container {
+    top: 10%;
+    left: 0px;
+    display: grid;
+    gap: 5px;
+}
+
+.class-date,
+.class-price {
+    background-color: #f47373;
+    color: white;
+    padding: 5px 10px;
+    
+}
+
+.class-price {
+    background-color: #90BE6D;
+    border-radius: 5px;
+    
+}
+.more-info-btn {
+    background-color: #f47373;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-top: 15px;
+}
+
+.more-info-btn:hover {
+    background-color: #e66363;
+    color: white;
+}
+
+.class-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+    color: #333;
+}
+
+.class-subtitle {
+    color: #f47373;
+    margin-bottom: 15px;
+}
+
+.hero2 {
+    background-image: url(/img/chef_bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 220px 20px;
+    text-align: center;
+}
+
+.hero2 h1 {
+    font-size: 38px;
+}
+
+.hero2 p {
+    font-size: 24px;
+}
+
+
+
+.fecha,
+.price {
+    width: 100%;
+    background-color: #f47373;
+    color: white;
+    margin-right: 140px;
+    
+
+    
+}
+.fecha  {
+    height: 50px;
+   
+}
+
+
+
+.price {
+    width: 13%;
+    background-color: #90BE6D;
+    border-radius: 5px;
+    margin-top: -37px;
+    text-align: center;
+ 
+}
+
+
+
+
+
+
+.boton-info {
+    background-color: #f47373;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-top: 15px;
+}
+
+.boton-info:hover {
+    background-color: #e66363;
+    color: white;
+}
+ 
+.Boton {
+    background-color: #f47373;
+    color: white;
+    border: none;
+    padding: 5px ;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+  
+}
+
+.Boton:hover {
+    background-color: #e66363;
+    color: white;
+    
+}
+
+
+.price{
+
+    margin-left: 300px;
+   
+}
+
+.titulo {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+    color: #333;
+}
+
+.titulo2 {
+    color: #f47373;
+    margin-bottom: 15px;
+}
